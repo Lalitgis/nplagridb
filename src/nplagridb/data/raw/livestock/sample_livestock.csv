@@ -1,0 +1,5 @@
+year,province,district,item,indicator,value,unit
+2020,Lumbini,Rupandehi,Cattle,Population,25000,head
+2020,Lumbini,Rupandehi,Milk,Production,4500,metric_ton
+2021,Lumbini,Rupandehi,Cattle,Population,25800,head
+2021,Lumbini,Rupandehi,Milk,Production,4700,metric_ton

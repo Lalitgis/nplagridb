@@ -1,0 +1,10 @@
+column_name,description,example
+year,Observation year,2020
+province,Nepal province name,Bagmati
+district,Nepal district name,Kathmandu
+item,Crop or livestock item,Rice
+indicator,Measured indicator such as Production Area Yield or Population,Production
+value,Numeric observed value,12000
+unit,Measurement unit,metric_ton
+category,Dataset category added by the package,crops
+source_file,CSV filename added by the package,crops_2010_2024.csv

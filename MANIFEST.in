@@ -1,0 +1,1 @@
+recursive-include src/nplagridb/data *.csv

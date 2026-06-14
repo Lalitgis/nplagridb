@@ -1,0 +1,5 @@
+year,province,district,item,indicator,value,unit
+2020,Bagmati,Kathmandu,Rice,Production,12000,metric_ton
+2020,Bagmati,Kathmandu,Rice,Area,3500,hectare
+2021,Bagmati,Kathmandu,Rice,Production,12600,metric_ton
+2021,Bagmati,Kathmandu,Rice,Area,3525,hectare
